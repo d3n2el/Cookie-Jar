@@ -1,0 +1,1 @@
+Pytest. Run instrunctions in readme.
